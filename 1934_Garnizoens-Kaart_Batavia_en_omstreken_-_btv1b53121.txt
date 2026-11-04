@@ -1,0 +1,25 @@
+================================================================================
+HISTORICAL CARTOGRAPHIC RECORD: BATAVIA
+================================================================================
+MAP TITLE       : Garnizoens-Kaart Batavia en omstreken - btv1b53121546p.jpg
+YEAR / DATE     : 1934
+CARTOGRAPHER    : Topografische Inrichting / KITLV
+REPOSITORY      : Leiden University (KITLV) / Nationaal Archief / Tropenmuseum
+SHELFMARK / ID  : Dutch Colonial Map Collection
+FORMAT / SIZE   : JPG (11.16 MB)
+LOCAL FILENAME  : 1934_Garnizoens-Kaart_Batavia_en_omstreken_-_btv1b53121.jpg
+SOURCE URL      : https://commons.wikimedia.org/wiki/File:Garnizoens-Kaart_Batavia_en_omstreken_-_btv1b53121546p.jpg
+RIGHTS / LICENSE: Public domain
+
+--------------------------------------------------------------------------------
+ACADEMIC CITATION:
+--------------------------------------------------------------------------------
+Topografische Inrichting / KITLV (1934). "Garnizoens-Kaart Batavia en omstreken - btv1b53121546p.jpg". Shelfmark: Dutch Colonial Map Collection. Dutch National Repositories (KITLV/Nationaal Archief). Permanent URL: https://commons.wikimedia.org/wiki/File:Garnizoens-Kaart_Batavia_en_omstreken_-_btv1b53121546p.jpg
+
+--------------------------------------------------------------------------------
+CURATORIAL NOTES / MAP DESCRIPTION:
+--------------------------------------------------------------------------------
+Sujet : Djakarta -- EnvironsÉchelle(s) : 1:50 000
+Couverture : Indonésie
+Langue : néerlandaisÉditeur : Reproductiebedrijj Topografische dienst (Batavia)
+================================================================================
